@@ -1,0 +1,21 @@
+.header {
+  width: 100%;
+  height: 70px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: purple;
+  padding: 20px;
+}
+
+.nav {
+  display: flex;
+  gap: 50px;
+}
+
+.a {
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: none;
+}
